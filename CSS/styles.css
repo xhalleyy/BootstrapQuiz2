@@ -1,0 +1,8 @@
+.grayBG {
+    background-color: slategray;
+}
+
+.space-evenly {
+    display: flex;
+    justify-content: space-evenly;
+}
